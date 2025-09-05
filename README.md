@@ -1,5 +1,3 @@
-Here’s a clean and beginner-friendly GitHub project description you can use for your notes app 👇
-
 📝 Notes App (Next.js + Supabase)
 
 A simple full-stack notes application built with Next.js, Supabase, and Tailwind CSS.
