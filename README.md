@@ -23,3 +23,5 @@ Supabase
 
 Tailwind CSS
  – Utility-first styling
+
+Still a work in progress
